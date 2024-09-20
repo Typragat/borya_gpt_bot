@@ -1,0 +1,4 @@
+openai~=1.46.0
+aiogram~=3.13.0
+asyncio~=3.4.3
+python-dotenv~=1.0.1
